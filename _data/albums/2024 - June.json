@@ -1,0 +1,334 @@
+{
+  "order": [
+    "13.jpg",
+    "22.jpg",
+    "21.jpg",
+    "20.jpg",
+    "19.jpg",
+    "18.jpg",
+    "17.jpg",
+    "16.jpg",
+    "14.jpg",
+    "15.jpg",
+    "23.jpg",
+    "24.jpg",
+    "25.jpg",
+    "26.jpg",
+    "28.jpg",
+    "27.jpg",
+    "29.jpg",
+    "30.jpg",
+    "31.jpg",
+    "32.jpg",
+    "33.jpg",
+    "35.jpg",
+    "34.jpg",
+    "38.jpg",
+    "37.jpg",
+    "36.jpg",
+    "40.jpg",
+    "39.jpg",
+    "41.jpg",
+    "42.jpg",
+    "12.jpg",
+    "10.jpg",
+    "09.jpg",
+    "11.jpg",
+    "06.jpg",
+    "04.jpg",
+    "03.jpg",
+    "08.jpg",
+    "07.jpg",
+    "01.jpg",
+    "02.jpg"
+  ],
+  "dict": {
+    "13.jpg": {
+      "type": "photo",
+      "width": 2316,
+      "height": 3088,
+      "path": "./photos/2024 - June/13.jpg",
+      "min_path": "./photos/2024 - June/13.min.jpg"
+    },
+    "22.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/22.jpg",
+      "min_path": "./photos/2024 - June/22.min.jpg"
+    },
+    "21.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/21.jpg",
+      "min_path": "./photos/2024 - June/21.min.jpg"
+    },
+    "20.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/20.jpg",
+      "min_path": "./photos/2024 - June/20.min.jpg"
+    },
+    "19.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/19.jpg",
+      "min_path": "./photos/2024 - June/19.min.jpg"
+    },
+    "18.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/18.jpg",
+      "min_path": "./photos/2024 - June/18.min.jpg"
+    },
+    "17.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/17.jpg",
+      "min_path": "./photos/2024 - June/17.min.jpg"
+    },
+    "16.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/16.jpg",
+      "min_path": "./photos/2024 - June/16.min.jpg"
+    },
+    "14.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/14.jpg",
+      "min_path": "./photos/2024 - June/14.min.jpg"
+    },
+    "15.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/15.jpg",
+      "min_path": "./photos/2024 - June/15.min.jpg"
+    },
+    "23.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/23.jpg",
+      "min_path": "./photos/2024 - June/23.min.jpg"
+    },
+    "24.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/24.jpg",
+      "min_path": "./photos/2024 - June/24.min.jpg"
+    },
+    "25.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/25.jpg",
+      "min_path": "./photos/2024 - June/25.min.jpg"
+    },
+    "26.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/26.jpg",
+      "min_path": "./photos/2024 - June/26.min.jpg"
+    },
+    "28.jpg": {
+      "type": "photo",
+      "width": 3088,
+      "height": 2316,
+      "path": "./photos/2024 - June/28.jpg",
+      "min_path": "./photos/2024 - June/28.min.jpg"
+    },
+    "27.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/27.jpg",
+      "min_path": "./photos/2024 - June/27.min.jpg"
+    },
+    "29.jpg": {
+      "type": "photo",
+      "width": 3088,
+      "height": 2316,
+      "path": "./photos/2024 - June/29.jpg",
+      "min_path": "./photos/2024 - June/29.min.jpg"
+    },
+    "30.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/30.jpg",
+      "min_path": "./photos/2024 - June/30.min.jpg"
+    },
+    "31.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/31.jpg",
+      "min_path": "./photos/2024 - June/31.min.jpg"
+    },
+    "32.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/32.jpg",
+      "min_path": "./photos/2024 - June/32.min.jpg"
+    },
+    "33.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/33.jpg",
+      "min_path": "./photos/2024 - June/33.min.jpg"
+    },
+    "35.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/35.jpg",
+      "min_path": "./photos/2024 - June/35.min.jpg"
+    },
+    "34.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/34.jpg",
+      "min_path": "./photos/2024 - June/34.min.jpg"
+    },
+    "38.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/38.jpg",
+      "min_path": "./photos/2024 - June/38.min.jpg"
+    },
+    "37.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/37.jpg",
+      "min_path": "./photos/2024 - June/37.min.jpg"
+    },
+    "36.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/36.jpg",
+      "min_path": "./photos/2024 - June/36.min.jpg"
+    },
+    "40.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/40.jpg",
+      "min_path": "./photos/2024 - June/40.min.jpg"
+    },
+    "39.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/39.jpg",
+      "min_path": "./photos/2024 - June/39.min.jpg"
+    },
+    "41.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/41.jpg",
+      "min_path": "./photos/2024 - June/41.min.jpg"
+    },
+    "42.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/42.jpg",
+      "min_path": "./photos/2024 - June/42.min.jpg"
+    },
+    "12.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 884,
+      "path": "./photos/2024 - June/12.jpg",
+      "min_path": "./photos/2024 - June/12.min.jpg"
+    },
+    "10.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/10.jpg",
+      "min_path": "./photos/2024 - June/10.min.jpg"
+    },
+    "09.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/09.jpg",
+      "min_path": "./photos/2024 - June/09.min.jpg"
+    },
+    "11.jpg": {
+      "type": "photo",
+      "width": 1920,
+      "height": 884,
+      "path": "./photos/2024 - June/11.jpg",
+      "min_path": "./photos/2024 - June/11.min.jpg"
+    },
+    "06.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/06.jpg",
+      "min_path": "./photos/2024 - June/06.min.jpg"
+    },
+    "04.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/04.jpg",
+      "min_path": "./photos/2024 - June/04.min.jpg"
+    },
+    "03.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/03.jpg",
+      "min_path": "./photos/2024 - June/03.min.jpg"
+    },
+    "08.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/08.jpg",
+      "min_path": "./photos/2024 - June/08.min.jpg"
+    },
+    "07.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/07.jpg",
+      "min_path": "./photos/2024 - June/07.min.jpg"
+    },
+    "01.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/01.jpg",
+      "min_path": "./photos/2024 - June/01.min.jpg"
+    },
+    "02.jpg": {
+      "type": "photo",
+      "width": 4032,
+      "height": 3024,
+      "path": "./photos/2024 - June/02.jpg",
+      "min_path": "./photos/2024 - June/02.min.jpg"
+    }
+  }
+}

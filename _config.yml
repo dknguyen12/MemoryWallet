@@ -1,4 +1,4 @@
-name: Horcrux
+name: Dilbert & MiaLuuser
 
 frame_padding: 10px
 
@@ -12,19 +12,19 @@ small_screen:
   row_gap: 10px
 
 process:
-  keep_order: True
+  keep_order: False
   album:
     sort_by_time: True # False: sort by filename
     order_by: create # access, modify
-    reverse: True
+    reverse: False
   photo:
-    sort_by_time: False
+    sort_by_time: True
     order_by: modify
-    reverse: True
+    reverse: False
     min_width: 600
     watermark:
       thumbnail: False
-      original: True
+      original: False
       fontsize: 40
       fontfamily: Eczar-Medium.ttf
       rotate: 0

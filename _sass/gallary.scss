@@ -38,8 +38,9 @@
 .photo-figure {
   padding: var(--frame-padding);
   box-sizing: border-box;
-  background-color: $surface;
+  background-color: #FFF;
   position: relative;
+  box-shadow: 10px 10px 20px black;
 }
 .photo-a {
   display: block;

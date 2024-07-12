@@ -5,78 +5,106 @@
   "parents": [],
   "items": {
     "order": [
-      "2019",
-      "2018"
+      "2024 - May",
+      "2024 - March",
+      "2024 - June",
+      "2024 - January",
+      "2024 - February",
+      "2024 - April",
+      "2023 - October",
+      "2023 - November",
+      "2023 - December"
     ],
     "dict": {
-      "2018": {
-        "name": "2018",
+      "2024 - May": {
+        "name": "2024 - May",
         "type": "album",
         "root": 1,
         "parents": [
-          "2018"
+          "2024 - May"
         ],
-        "items": {
-          "order": [
-            "Hokkaido December"
-          ],
-          "dict": {
-            "Hokkaido December": {
-              "name": "Hokkaido December",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2018",
-                "Hokkaido December"
-              ],
-              "path": "./_data/albums/2018-Hokkaido December.json",
-              "no_sub_album": true
-            }
-          }
-        }
+        "path": "./_data/albums/2024 - May.json",
+        "no_sub_album": true
       },
-      "2019": {
-        "name": "2019",
+      "2024 - March": {
+        "name": "2024 - March",
         "type": "album",
         "root": 1,
         "parents": [
-          "2019"
+          "2024 - March"
         ],
-        "items": {
-          "order": [
-            "August"
-          ],
-          "dict": {
-            "August": {
-              "name": "August",
-              "type": "album",
-              "root": 2,
-              "parents": [
-                "2019",
-                "August"
-              ],
-              "items": {
-                "order": [
-                  "Street"
-                ],
-                "dict": {
-                  "Street": {
-                    "name": "Street",
-                    "type": "album",
-                    "root": 3,
-                    "parents": [
-                      "2019",
-                      "August",
-                      "Street"
-                    ],
-                    "path": "./_data/albums/2019-August-Street.json",
-                    "no_sub_album": true
-                  }
-                }
-              }
-            }
-          }
-        }
+        "path": "./_data/albums/2024 - March.json",
+        "no_sub_album": true
+      },
+      "2024 - June": {
+        "name": "2024 - June",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024 - June"
+        ],
+        "path": "./_data/albums/2024 - June.json",
+        "no_sub_album": true
+      },
+      "2024 - January": {
+        "name": "2024 - January",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024 - January"
+        ],
+        "path": "./_data/albums/2024 - January.json",
+        "no_sub_album": true
+      },
+      "2024 - February": {
+        "name": "2024 - February",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024 - February"
+        ],
+        "path": "./_data/albums/2024 - February.json",
+        "no_sub_album": true
+      },
+      "2024 - April": {
+        "name": "2024 - April",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2024 - April"
+        ],
+        "path": "./_data/albums/2024 - April.json",
+        "no_sub_album": true
+      },
+      "2023 - October": {
+        "name": "2023 - October",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2023 - October"
+        ],
+        "path": "./_data/albums/2023 - October.json",
+        "no_sub_album": true
+      },
+      "2023 - November": {
+        "name": "2023 - November",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2023 - November"
+        ],
+        "path": "./_data/albums/2023 - November.json",
+        "no_sub_album": true
+      },
+      "2023 - December": {
+        "name": "2023 - December",
+        "type": "album",
+        "root": 1,
+        "parents": [
+          "2023 - December"
+        ],
+        "path": "./_data/albums/2023 - December.json",
+        "no_sub_album": true
       }
     }
   }
